@@ -2,7 +2,7 @@
 
 A simple app built on React Native and ExpoKit to teleoperate ROS robots (using the [rosbridge](http://wiki.ros.org/rosbridge_suite) protocol)
 
-- Sends Twist messages to the /cmd_vel topic
+- Sends Twist messages to the `/cmd_vel` topic
 - Communicates with Websocket server at port 8080
 - Min/max velocities and angulars are set as constants in `App.js`
 
