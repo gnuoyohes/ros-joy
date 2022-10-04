@@ -9,7 +9,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "^32.0.2",
+    "expo": "^46.0.14",
     "expo-multi-touch": "0.0.0",
     "expokit": "^32.1.1",
     "react": "16.5.0",
